@@ -1,1 +1,1 @@
-
++ pdflatex All.tex
